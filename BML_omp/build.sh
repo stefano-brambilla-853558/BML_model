@@ -6,7 +6,7 @@
 #per utilizzarlo, vai nella cartella project da terminale (con cd)
 # poi fai     ./build.sh
 
-rm -rf build/
+rm -rf build/ 
 mkdir build/
 cd build/
 
